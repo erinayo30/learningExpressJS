@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: 35px;
+  font-weight: 300;
+  background-color: blue;
+  color: aliceblue;
+  align-items: center;
+}
+.card {
+  padding: 10px;
+  margin: 10px;
+  background-color: chartreuse;
+  color: blue;
+  box-shadow: 5px 10px;
+  align-items: center;
+}
